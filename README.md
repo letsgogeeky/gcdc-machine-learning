@@ -1,5 +1,5 @@
 # gcdc-machine-learning
-Machine Learning Session in Egypt.
+Machine Learning Sessions in Egypt.
 
 
 ## Development Environment Installation
